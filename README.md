@@ -36,7 +36,8 @@ A premium, fully responsive e-commerce front-end for a luxury florist. This proj
 
 | Desktop View | 
 | :--- | 
-| ![Desktop Screenshot]("C:\Users\acer\Pictures\Screenshots\Screenshot 2026-02-16 121818.png") |
+|  |
+<img width="1353" height="764" alt="Screenshot 2026-02-16 121818" src="https://github.com/user-attachments/assets/cd8cc537-4e1f-432b-af1b-a70eaf73e009" />
 
 ## 📂 Project Structure
 
